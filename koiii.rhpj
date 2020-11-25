@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="2020.1.0">
+<project version="2020.3.0">
 <title>koiii</title>
 <id>0e25411e-3d0e-4f62-a0a9-781d5f14a35f</id>
 <preferences>
@@ -50,5 +50,4 @@
 <seealso root="seealso"></seealso>
 <variable root="variable"></variable>
 <condition root="condition"></condition>
-<review root="review"></review>
 <microcontent root="contents/microcontent"></microcontent></project>
